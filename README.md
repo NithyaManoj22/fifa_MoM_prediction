@@ -3,6 +3,8 @@ FIFA conducts international football tournaments all over the world.Each interna
 
 To solve the given problem,we have undertaken the following steps.
 1.Visualising the data and observe which parameters affect Man of the Moment to a larger extent.
+
 2.Feed the test and train data to the system.
+
 3.Predict Man of the Match  using machine learning algorithms.In this case,we have used Linear Regression,Decision Tree Classifier and Logistic Regression.
 
